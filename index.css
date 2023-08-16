@@ -1,0 +1,21 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: rgb(213, 255, 208);
+    padding: 10px;
+    margin: 10px;
+    color: black;
+}
+
+h1 {
+    text-align: center;
+}
+
+ li {
+    padding: 14px;
+    margin: 10px;
+    border: 1px solid;
+    border-radius: 5px;
+    border-color: rgb(12, 53, 106);
+    background-color: rgb(64, 248, 255);
+    font-weight: bold;
+ }
