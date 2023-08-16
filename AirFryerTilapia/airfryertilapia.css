@@ -1,0 +1,29 @@
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: rgb(255, 186, 134);
+    padding: 10px;
+    margin: 10px;
+}
+
+div {
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+img {
+    width: 70vh;
+    height: 45vh;
+}
+
+.description {
+    background-color: rgb(246, 89, 99);
+}
+
+.ingredients {
+    background-color: rgb(214, 40, 110);
+}
+
+.steps {
+    background-color: rgb(180, 31, 59);
+}
